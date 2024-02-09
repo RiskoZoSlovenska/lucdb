@@ -1,0 +1,3 @@
+[submodule "cdb"]
+	path = cdb
+	url = https://github.com/howerj/cdb
