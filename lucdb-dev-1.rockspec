@@ -4,7 +4,7 @@ source = {
    url = "git+http://github.com/RiskoZoSlovenska/lucdb",
 }
 description = {
-   summary = "Self-contained 5.1/5.2+ binding to howerj's cdb, with 64-bit support.",
+   summary = "Self-contained 5.1/5.2+ binding to howerj's cdb, with 64-bit format support.",
    homepage = "http://github.com/RiskoZoSlovenska/lucdb",
    license = "MIT",
 }
